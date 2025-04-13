@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://fnoscloud.cn:5678/:splat"
+  status = 200
+  force = true
